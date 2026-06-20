@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lavish Agarwal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Engineer from India</h3>
 <img src="download.png" alt="coding" width="500" height="600">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lavish-1811&label=Profile%20views&color=0e75b6&style=flat" alt="lavish-1811" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Java,HTML,CSS**
 
