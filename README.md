@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Java,HTML,CSS**
+- 💬 Ask me about **Python,Pyspark,Databricks,Azure,**
 
 - 📫 How to reach me **lavishgupta1811@gmail.com**
 
